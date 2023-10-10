@@ -28,12 +28,12 @@ var color = [
     // let container=document.getElementsByClassName("container")[0];
     // console.log(container);
     document.body.style.backgroundColor=color[Math.floor(Math.random() * color.length)];
-    let marTop=mrt[Math.floor(Math.random() * mrt.length)];
-    button.style.marginTop=marTop;
-    marLeft=mrl[Math.floor(Math.random() * mrl.length)];
-     button.style.marginLeft=marLeft;
+    // let marTop=mrt[Math.floor(Math.random() * mrt.length)];
+    // button.style.marginTop=marTop;
+    // marLeft=mrl[Math.floor(Math.random() * mrl.length)];
+    //  button.style.marginLeft=marLeft;
     
-    console.log(marTop);
-    console.log(marLeft);
+    // console.log(marTop);
+    // console.log(marLeft);
     
   }
